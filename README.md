@@ -12,3 +12,6 @@ FEATURES:
               (i)   Speed of Visualization (Varying speed)
               (ii)  Size of the Data (Varying size)
               (iii) Generation of new Data (Random generation of Data)
+
+
+Take a look at the live version of the project: https://sarathkumardunga.github.io/Sorting-Visualizer/
