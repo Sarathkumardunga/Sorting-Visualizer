@@ -1,5 +1,5 @@
 # SORTING-VISUALIZER
-This Project helps in visualizing few of the major sorting techniques. like BubbleSort, MergeSort, QuickSort
+This Project helps in visualizing few of the major sorting techniques.
 
 IMPLEMENTED SORTING TECHNIQUES:
      1) BUBBLE SORT
